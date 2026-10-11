@@ -1,0 +1,43 @@
+{
+  "topic": "cut",
+  "background": "话题：中美关税战 (US-China Tariff War)\n\n中美贸易摩擦是 21 世纪以来最具影响力的国际经济事件之一。自 2018 年起，两大经济体围绕关税、技术出口管制、供应链转移和投资审查展开持续博弈，覆盖钢铝、半导体、新能源、农业等多个关键产业。事件不仅冲击全球贸易格局，也在中美两国国内引发了激烈的舆论分化：支持\"对等反制\"的强硬派与主张\"务实对话\"的温和派各自占据社交媒体的不同板块，民族情绪与经济理性常常同时上场。",
+  "profiles": {
+    "profiles_total": 300,
+    "real_count": 26,
+    "synthetic_count": 274,
+    "dropped_fields": {
+      "cognitive_profile": 300,
+      "information_style": 300,
+      "communication_style": 300,
+      "media_trust": 300,
+      "persuasion_susceptibility": 300,
+      "_synthetic": 274,
+      "_enriched": 300,
+      "follower_list": 300,
+      "follow_list": 300,
+      "realname": 300,
+      "username": 300
+    },
+    "stripped_fields": [
+      "source_name",
+      "source_id"
+    ]
+  },
+  "posts": {
+    "posts_total": 2683,
+    "by_source_field": {
+      "original_post": 167,
+      "context_post": 1106,
+      "target_post": 1410
+    },
+    "external_authors": 225,
+    "posts_by_external_author": 2052,
+    "empty_content": 0,
+    "min_len": 5,
+    "max_len": 1238,
+    "stripped_fields": [
+      "author_source_id"
+    ]
+  },
+  "ban_leaks": []
+}

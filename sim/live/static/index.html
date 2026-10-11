@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ASCE-CoC · 仿真监控工作台</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+
+<!-- ═══════════════════════ 状态栏：一条，不占空间 ═══════════════════════ -->
+<header class="statusbar">
+  <div class="brand">
+    <span class="logo">ASCE<span class="dot-accent">·</span>CoC</span>
+    <span class="brand-sub">认知链多智能体仿真</span>
+  </div>
+
+  <div class="run-info">
+    <span class="chip" id="topic-chip">—</span>
+    <span class="chip chip-quiet" id="profile-chip">—</span>
+  </div>
+
+  <div class="progress">
+    <div class="progress-track"><div class="progress-bar" id="progress-bar"></div></div>
+    <span class="progress-text" id="progress-text">等待仿真启动…</span>
+  </div>
+
+  <div class="conn" id="conn">
+    <span class="conn-dot" id="conn-dot"></span>
+    <span id="conn-text">连接中…</span>
+  </div>
+</header>
+
+<!-- ═══════════════════════ 指标：紧凑一排 ═══════════════════════ -->
+<section class="metrics" id="metrics">
+  <div class="metric" title="当前轮次 / 总轮次">
+    <span class="m-label">轮次</span>
+    <span class="m-value" id="kpi-tick">0</span>
+    <span class="m-unit" id="kpi-tick-unit">/ 0</span>
+  </div>
+  <div class="metric" title="本轮被激活的智能体数 / 总参与者">
+    <span class="m-label">激活</span>
+    <span class="m-value" id="kpi-active">0</span>
+    <span class="m-unit" id="kpi-active-unit">/ 0</span>
+  </div>
+  <div class="metric" title="平台帖子总数（含导入的历史语料）">
+    <span class="m-label">帖子</span>
+    <span class="m-value" id="kpi-posts">0</span>
+  </div>
+  <div class="metric" title="平台评论总数">
+    <span class="m-label">评论</span>
+    <span class="m-value" id="kpi-comments">0</span>
+  </div>
+  <div class="metric" title="累计工具调用次数">
+    <span class="m-label">工具调用</span>
+    <span class="m-value" id="kpi-tools">0</span>
+    <span class="m-unit m-warn" id="kpi-tools-fail"></span>
+  </div>
+  <div class="metric" title="本轮模型未按契约写出的认知链节点数">
+    <span class="m-label">缺节点</span>
+    <span class="m-value" id="kpi-missing">0</span>
+    <span class="m-unit" id="kpi-missing-unit">—</span>
+  </div>
+  <div class="metric" title="累计消耗 token">
+    <span class="m-label">token</span>
+    <span class="m-value" id="kpi-tokens">0</span>
+  </div>
+</section>
+
+<!-- ═══════════════════════ 主体：七成活动流 / 三成统计 ═══════════════════════ -->
+<main class="layout">
+
+  <section class="panel feed-panel">
+    <div class="panel-toolbar">
+      <h2>智能体活动流</h2>
+      <div class="panel-tools">
+        <div class="tick-nav" role="group" aria-label="轮次导航">
+          <button class="nav-btn" id="tick-prev" title="上一轮（← 键）">◀</button>
+          <select class="tick-select" id="tick-select" title="选择要查看的轮次"></select>
+          <button class="nav-btn" id="tick-next" title="下一轮（→ 键）">▶</button>
+          <button class="nav-btn nav-btn-play" id="tick-play" title="自动回放">▶▶</button>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="follow-live" checked>
+          <span>实时跟随</span>
+        </label>
+      </div>
+    </div>
+
+    <div class="replay-banner" id="replay-banner" hidden>
+      <span class="replay-icon">⏱</span>
+      <span id="replay-text">正在回放</span>
+      <button class="btn btn-small" id="back-live">回到最新</button>
+    </div>
+
+    <div class="feed" id="feed">
+      <div class="state state-loading" id="feed-state">
+        <div class="spinner"></div>
+        <p>正在连接仿真…</p>
+      </div>
+    </div>
+
+    <button class="new-pill" id="new-pill" hidden>
+      <span id="new-pill-text">有 0 条新活动</span>
+      <span class="new-pill-arrow">↑</span>
+    </button>
+  </section>
+
+  <aside class="panel side-panel">
+
+    <section class="side-block" id="block-chain">
+      <header class="side-head">
+        <h3>认知链健康度</h3>
+        <span class="side-note">按维度分组 · 异常优先</span>
+      </header>
+      <p class="side-hint">
+        「有内容」= 该节点有推理文本；「显式标注」= 模型自己写出了节点名。
+        两者不一致说明内容来自维度段兜底。
+      </p>
+      <div id="chain-groups" class="chain-groups">
+        <div class="state state-mini">暂无数据</div>
+      </div>
+    </section>
+
+    <section class="side-block" id="block-tools">
+      <header class="side-head">
+        <h3>动作分布</h3>
+        <span class="side-note">本轮</span>
+      </header>
+      <div id="tool-list" class="tool-list">
+        <div class="state state-mini">暂无数据</div>
+      </div>
+    </section>
+
+    <section class="side-block side-block-compact">
+      <header class="side-head"><h3>平台数据</h3></header>
+      <dl class="kv" id="platform-kv">
+        <div><dt>帖子</dt><dd id="p-posts">0</dd></div>
+        <div><dt>评论</dt><dd id="p-comments">0</dd></div>
+        <div><dt>点赞</dt><dd id="p-likes">0</dd></div>
+        <div><dt>关注关系</dt><dd id="p-follows">0</dd></div>
+        <div><dt>已记录轮次</dt><dd id="p-turns">0</dd></div>
+        <div><dt>候选帖池</dt><dd id="p-pool">0</dd></div>
+      </dl>
+    </section>
+
+    <section class="side-block side-block-compact">
+      <header class="side-head"><h3>运行配置</h3></header>
+      <dl class="kv" id="meta-kv">
+        <div><dt>话题</dt><dd id="m-topic">—</dd></div>
+        <div><dt>认知链档位</dt><dd id="m-profile">—</dd></div>
+        <div><dt>模型</dt><dd id="m-model">—</dd></div>
+      </dl>
+    </section>
+
+  </aside>
+</main>
+
+<!-- ═══════════════════════ 详情：宽侧栏 ═══════════════════════ -->
+<div class="drawer" id="drawer" hidden>
+  <div class="drawer-mask" data-drawer-close="1"></div>
+  <aside class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="drawer-title">
+    <header class="drawer-head">
+      <div class="drawer-heading">
+        <h2 id="drawer-title">—</h2>
+        <p id="drawer-sub">—</p>
+      </div>
+      <div class="drawer-actions">
+        <button class="btn btn-primary" id="btn-export" disabled>导出 PDF</button>
+        <button class="btn" data-drawer-close="1">关闭</button>
+      </div>
+    </header>
+    <nav class="drawer-tabs" id="drawer-tabs">
+      <button class="tab is-active" data-tab="seen">看到的内容</button>
+      <button class="tab" data-tab="chain">认知链</button>
+      <button class="tab" data-tab="actions">实际动作</button>
+      <button class="tab" data-tab="raw">两阶段原文</button>
+    </nav>
+    <div class="drawer-body" id="drawer-body"></div>
+  </aside>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

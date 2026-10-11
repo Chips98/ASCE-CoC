@@ -1,0 +1,7131 @@
+[
+  {
+    "user_id": 1,
+    "display_name": "用户0001",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事政治相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 2,
+    "display_name": "用户0002",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "墨西哥",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自墨西哥的20-30的男性。从事科技相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ENFJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 3,
+    "display_name": "用户0003",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 24,
+      "retweet_count": 4,
+      "influence_score": 32.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，发帖不算多但有人跟。",
+    "persona": "一位来自美国的31-50的男性。从事工程相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 4,
+    "display_name": "用户0004",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19的男性。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 5,
+    "display_name": "用户0005",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "韩国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 4,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、科技方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自韩国的20-30的男性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENFP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 6,
+    "display_name": "用户0006",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 6,
+      "influence_score": 17.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50。从事文娱传媒相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ISFP。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 7,
+    "display_name": "用户0007",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 120,
+      "retweet_count": 30,
+      "influence_score": 45.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "比较关心时政、商业、综合新闻方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的31-50的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注政治、商业、综合新闻这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 8,
+    "display_name": "用户0008",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "韩国",
+    "profession": "金融",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 25,
+      "retweet_count": 7,
+      "influence_score": 39.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，每天都会看盘和读研报，在平台上有一批固定的关注者。",
+    "persona": "一位来自韩国的13-19的男性。从事金融相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 9,
+    "display_name": "用户0009",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30。从事教育相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 10,
+    "display_name": "用户0010",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "ENTP",
+    "country": "芬兰",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、科技、经济形势方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自芬兰的13-19。从事工程相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 11,
+    "display_name": "用户0011",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "巴西",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 4,
+      "influence_score": 20.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，发帖不算多但有人跟。",
+    "persona": "一位来自巴西的51+的女性。从事工程相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 12,
+    "display_name": "用户0012",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12的女性。从事金融相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 INFP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 13,
+    "display_name": "用户0013",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "德国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 21,
+      "retweet_count": 4,
+      "influence_score": 29.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，发帖不算多但有人跟。",
+    "persona": "一位来自德国的20-30的男性。从事法律相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 14,
+    "display_name": "用户0014",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50的女性。从事社会工作相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 15,
+    "display_name": "用户0015",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、文化方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISTJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 16,
+    "display_name": "用户0016",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "其他",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 14,
+      "retweet_count": 3,
+      "influence_score": 20.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自其他的31-50的男性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFJ。平时比较关注经济、国际关系、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 17,
+    "display_name": "用户0017",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的女性。从事教育相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 18,
+    "display_name": "用户0018",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "澳大利亚",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自澳大利亚的51+的女性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 19,
+    "display_name": "用户0019",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INTP",
+    "country": "英国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自英国的51+的男性。从事商业相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 20,
+    "display_name": "用户0020",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12的女性。从事金融相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 21,
+    "display_name": "用户0021",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "其他",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的6-12的女性。从事法律相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 INFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 22,
+    "display_name": "用户0022",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 23,
+    "display_name": "用户0023",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "娱乐"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "平时常看时政、商业、娱乐方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50。从事其他相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注政治、商业、娱乐这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 24,
+    "display_name": "用户0024",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 5,
+      "influence_score": 20.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的男性。从事社会工作相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 25,
+    "display_name": "用户0025",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心科技、经济形势、国际关系方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的20-30。从事科技相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISTJ。平时比较关注科技、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 26,
+    "display_name": "用户0026",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "日本",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "时政",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 10,
+      "influence_score": 25.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看时政、经济形势、国际关系方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自日本的31-50的女性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ISFJ。平时比较关注时政、经济、国际关系这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 27,
+    "display_name": "用户0027",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "娱乐",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "关注时政、娱乐、综合新闻方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+。从事其他相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENFP。平时比较关注政治、娱乐、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 28,
+    "display_name": "用户0028",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ENFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 29,
+    "display_name": "用户0029",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISTP",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30的女性。从事法律相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 30,
+    "display_name": "用户0030",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "历史"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 4,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "关注时政、商业、历史方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTJ。平时比较关注政治、商业、历史这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 31,
+    "display_name": "用户0031",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的女性。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 32,
+    "display_name": "用户0032",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 9,
+      "influence_score": 23.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的6-12的女性。从事政治相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 33,
+    "display_name": "用户0033",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ESFJ",
+    "country": "中国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+。从事金融相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 34,
+    "display_name": "用户0034",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30。从事工程相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 35,
+    "display_name": "用户0035",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "政治",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 7.5
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "平时常看时政、科技方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+。从事政治相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFP。平时比较关注政治、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 36,
+    "display_name": "用户0036",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 13,
+      "influence_score": 32.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，日常和学生、家长打交道比较多，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的51+的女性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 37,
+    "display_name": "用户0037",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+的女性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ENTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 38,
+    "display_name": "用户0038",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "INFJ",
+    "country": "巴西",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 4,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、科技、经济形势方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自巴西的31-50。从事工程相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INFJ。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 39,
+    "display_name": "用户0039",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的男性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 40,
+    "display_name": "用户0040",
+    "age": "20-30",
+    "gender": "不愿透露",
+    "mbti": "ENFJ",
+    "country": "韩国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自韩国的20-30。从事商业相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENFJ。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 41,
+    "display_name": "用户0041",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、体育方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事体育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ENFJ。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 42,
+    "display_name": "用户0042",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、科技、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30。从事科学研究相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 43,
+    "display_name": "用户0043",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "美国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、体育方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的男性。从事体育相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ISTP。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 44,
+    "display_name": "用户0044",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 45,
+    "display_name": "用户0045",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "法国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自法国的31-50的女性。从事教育相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 46,
+    "display_name": "用户0046",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "中国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "时政",
+      "国际关系",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心时政、国际关系、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12。从事文娱传媒相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESFJ。平时比较关注时政、国际关系、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 47,
+    "display_name": "用户0047",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "挪威",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、文化方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自挪威的13-19的女性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 48,
+    "display_name": "用户0048",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "时政",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 18.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注时政、国际关系、经济形势方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12。从事法律相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注时政、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 49,
+    "display_name": "用户0049",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "加拿大",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自加拿大的20-30的女性。从事金融相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 INTP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 50,
+    "display_name": "用户0050",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "体育",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看体育、国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12的男性。从事体育相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ISTP。平时比较关注体育、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 51,
+    "display_name": "用户0051",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ISFP",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 16,
+      "retweet_count": 3,
+      "influence_score": 22.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，发帖不算多但有人跟。",
+    "persona": "一位来自美国的20-30。从事法律相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISFP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 52,
+    "display_name": "用户0052",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "政治",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "比较关心科技、时政、商业方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事科技相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 INTJ。平时比较关注科技、政治、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 53,
+    "display_name": "用户0053",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "时政",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看时政、经济形势、国际关系方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的男性。从事政治相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ISTJ。平时比较关注时政、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 54,
+    "display_name": "用户0054",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30的男性。从事科学研究相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 55,
+    "display_name": "用户0055",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "挪威",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自挪威的20-30的男性。从事商业相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 56,
+    "display_name": "用户0056",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 18.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的女性。从事科学研究相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 57,
+    "display_name": "用户0057",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "其他",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的20-30的男性。从事市场营销相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 58,
+    "display_name": "用户0058",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、科技、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19的女性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 59,
+    "display_name": "用户0059",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 12,
+      "influence_score": 30.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的51+的男性。从事商业相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESTJ。平时比较关注经济、国际关系、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 60,
+    "display_name": "用户0060",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "时政",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注时政、经济形势、国际关系方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12的女性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注时政、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 61,
+    "display_name": "用户0061",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "ISTP",
+    "country": "印度",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 3,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自印度的13-19。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 62,
+    "display_name": "用户0062",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "墨西哥",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、科技、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自墨西哥的6-12。从事科学研究相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INFJ。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 63,
+    "display_name": "用户0063",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30的女性。从事工程相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESFJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 64,
+    "display_name": "用户0064",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 9,
+      "influence_score": 23.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的6-12。从事政治相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 65,
+    "display_name": "用户0065",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 14,
+      "retweet_count": 4,
+      "influence_score": 22.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，发帖不算多但有人跟。",
+    "persona": "一位来自美国的20-30。从事教育相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 66,
+    "display_name": "用户0066",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30的男性。从事工程相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ISFJ。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 67,
+    "display_name": "用户0067",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的男性。从事科技相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENFJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 68,
+    "display_name": "用户0068",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "意大利",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "教育",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、教育、经济形势方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自意大利的13-19的男性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、教育、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 69,
+    "display_name": "用户0069",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30的男性。从事教育相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 70,
+    "display_name": "用户0070",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19的男性。从事社会工作相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 71,
+    "display_name": "用户0071",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "INFP",
+    "country": "日本",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、科技、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自日本的13-19。从事其他相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、科技、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 72,
+    "display_name": "用户0072",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 13,
+      "influence_score": 32.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的6-12的男性。从事政治相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 73,
+    "display_name": "用户0073",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INTP",
+    "country": "瑞典",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自瑞典的6-12。从事工程相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 INTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 74,
+    "display_name": "用户0074",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 6,
+      "influence_score": 18.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12的女性。从事市场营销相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 75,
+    "display_name": "用户0075",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "教育",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、教育、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12的女性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、教育、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 76,
+    "display_name": "用户0076",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30的女性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 77,
+    "display_name": "用户0077",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事其他相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 78,
+    "display_name": "用户0078",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "关注时政、商业、综合新闻方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INTJ。平时比较关注政治、商业、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 79,
+    "display_name": "用户0079",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISFP",
+    "country": "澳大利亚",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 4,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自澳大利亚的31-50的男性。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 80,
+    "display_name": "用户0080",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "墨西哥",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自墨西哥的6-12的女性。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 81,
+    "display_name": "用户0081",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+的男性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 INTP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 82,
+    "display_name": "用户0082",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "比较关心时政、科技、综合新闻方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENTJ。平时比较关注政治、科技、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 83,
+    "display_name": "用户0083",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50。从事金融相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ENTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 84,
+    "display_name": "用户0084",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 8,
+      "influence_score": 22.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、体育方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的20-30的女性。从事体育相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ISFJ。平时比较关注国际关系、经济、体育这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 85,
+    "display_name": "用户0085",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12。从事社会工作相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 86,
+    "display_name": "用户0086",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 3,
+      "influence_score": 21.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，日常和学生、家长打交道比较多，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的女性。从事教育相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESFP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 87,
+    "display_name": "用户0087",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "韩国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 7,
+      "influence_score": 20.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自韩国的13-19的女性。从事商业相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFP。平时比较关注经济、国际关系、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 88,
+    "display_name": "用户0088",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ISTP",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30。从事商业相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 89,
+    "display_name": "用户0089",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "墨西哥",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 6,
+      "influence_score": 24.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自墨西哥的51+的女性。从事科学研究相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESTP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 90,
+    "display_name": "用户0090",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ISTP",
+    "country": "巴西",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 8,
+      "influence_score": 21.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、体育方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自巴西的51+。从事体育相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ISTP。平时比较关注国际关系、经济、体育这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 91,
+    "display_name": "用户0091",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INTP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 92,
+    "display_name": "用户0092",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "政治",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "平时常看科技、时政、商业方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的男性。从事科技相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESTJ。平时比较关注科技、政治、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 93,
+    "display_name": "用户0093",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ENTJ",
+    "country": "巴西",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自巴西的20-30的女性。从事金融相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 94,
+    "display_name": "用户0094",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的51+。从事工程相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 95,
+    "display_name": "用户0095",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "澳大利亚",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自澳大利亚的51+的男性。从事体育相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ENFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 96,
+    "display_name": "用户0096",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENTP",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 12,
+      "influence_score": 29.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的男性。从事其他相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、经济、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 97,
+    "display_name": "用户0097",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ENTJ",
+    "country": "荷兰",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自荷兰的20-30的女性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 98,
+    "display_name": "用户0098",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 12,
+      "influence_score": 29.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、科技方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的13-19的女性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ESFP。平时比较关注国际关系、经济、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 99,
+    "display_name": "用户0099",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ESTP",
+    "country": "美国",
+    "profession": "金融",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19。从事金融相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 100,
+    "display_name": "用户0100",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "娱乐"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 5,
+      "influence_score": 7.5
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "比较关心时政、科技、娱乐方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFP。平时比较关注政治、科技、娱乐这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 101,
+    "display_name": "用户0101",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、科技、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的男性。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFP。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 102,
+    "display_name": "用户0102",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 7.5
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "关注时政、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的51+的男性。从事其他相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENTJ。平时比较关注政治、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 103,
+    "display_name": "用户0103",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 21,
+      "retweet_count": 5,
+      "influence_score": 31.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，发帖不算多但有人跟。",
+    "persona": "一位来自中国的31-50。从事工程相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFJ。平时比较关注国际关系、经济、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 104,
+    "display_name": "用户0104",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ISFP",
+    "country": "俄罗斯",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自俄罗斯的13-19的男性。从事其他相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 105,
+    "display_name": "用户0105",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+。从事其他相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 106,
+    "display_name": "用户0106",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12的女性。从事教育相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 107,
+    "display_name": "用户0107",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 108,
+    "display_name": "用户0108",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "政治",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 5,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "关注时政、商业方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注政治、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 109,
+    "display_name": "用户0109",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 110,
+    "display_name": "用户0110",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "韩国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自韩国的31-50的女性。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 111,
+    "display_name": "用户0111",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的男性。从事政治相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 112,
+    "display_name": "用户0112",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 18,
+      "influence_score": 42.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的6-12。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 113,
+    "display_name": "用户0113",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 5,
+      "influence_score": 20.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，发帖不算多但有人跟。",
+    "persona": "一位来自中国的6-12的女性。从事金融相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ENFP。平时比较关注经济、国际关系、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 114,
+    "display_name": "用户0114",
+    "age": "6-12",
+    "gender": "不愿透露",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12。从事政治相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 115,
+    "display_name": "用户0115",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19。从事科技相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 116,
+    "display_name": "用户0116",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ENFJ",
+    "country": "俄罗斯",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 18.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自俄罗斯的20-30。从事法律相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ENFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 117,
+    "display_name": "用户0117",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ESTP",
+    "country": "墨西哥",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自墨西哥的13-19。从事政治相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 118,
+    "display_name": "用户0118",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 119,
+    "display_name": "用户0119",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12。从事科学研究相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENFJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 120,
+    "display_name": "用户0120",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "日本",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自日本的6-12的女性。从事科技相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ISFP。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 121,
+    "display_name": "用户0121",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "ISTJ",
+    "country": "挪威",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 13,
+      "retweet_count": 3,
+      "influence_score": 19.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、科技、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自挪威的13-19。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 122,
+    "display_name": "用户0122",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "教育",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 17,
+      "retweet_count": 3,
+      "influence_score": 23.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、教育、时政方面的消息，日常和学生、家长打交道比较多，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的女性。从事教育相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、教育、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 123,
+    "display_name": "用户0123",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、文化方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的20-30的女性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ISFP。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 124,
+    "display_name": "用户0124",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50。从事工程相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISFJ。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 125,
+    "display_name": "用户0125",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENTJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的女性。从事政治相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 126,
+    "display_name": "用户0126",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "韩国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自韩国的51+的男性。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 127,
+    "display_name": "用户0127",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "其他",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的20-30的女性。从事政治相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 128,
+    "display_name": "用户0128",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "印度",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自印度的51+的男性。从事文娱传媒相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 INTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 129,
+    "display_name": "用户0129",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的男性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 130,
+    "display_name": "用户0130",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "墨西哥",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自墨西哥的20-30的女性。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 131,
+    "display_name": "用户0131",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 38,
+      "retweet_count": 4,
+      "influence_score": 46.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、体育方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的20-30的女性。从事体育相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注国际关系、经济、体育这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 132,
+    "display_name": "用户0132",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19的女性。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 133,
+    "display_name": "用户0133",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "日本",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自日本的20-30的男性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ESFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 134,
+    "display_name": "用户0134",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "平时常看时政、科技、商业方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 INTJ。平时比较关注政治、科技、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 135,
+    "display_name": "用户0135",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "INFJ",
+    "country": "韩国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自韩国的31-50。从事法律相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 136,
+    "display_name": "用户0136",
+    "age": "6-12",
+    "gender": "不愿透露",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 137,
+    "display_name": "用户0137",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "瑞典",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自瑞典的31-50的女性。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 138,
+    "display_name": "用户0138",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "时政",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注科技、时政、国际关系方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12。从事科技相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注科技、时政、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 139,
+    "display_name": "用户0139",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "墨西哥",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自墨西哥的6-12的女性。从事市场营销相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 140,
+    "display_name": "用户0140",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 29,
+      "retweet_count": 3,
+      "influence_score": 35.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的31-50的男性。从事政治相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 141,
+    "display_name": "用户0141",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的女性。从事科技相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFP。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 142,
+    "display_name": "用户0142",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "荷兰",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自荷兰的6-12。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 143,
+    "display_name": "用户0143",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "INFJ",
+    "country": "其他",
+    "profession": "商业",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的20-30的女性。从事商业相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 144,
+    "display_name": "用户0144",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 14,
+      "retweet_count": 5,
+      "influence_score": 24.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的20-30的女性。从事科技相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFP。平时比较关注科技、国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 145,
+    "display_name": "用户0145",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 13,
+      "influence_score": 32.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，发帖不算多但有人跟。",
+    "persona": "一位来自中国的20-30的女性。从事工程相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESTP。平时比较关注国际关系、经济、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 146,
+    "display_name": "用户0146",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "意大利",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自意大利的6-12的女性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 INTP。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 147,
+    "display_name": "用户0147",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ENTP",
+    "country": "中国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 4,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的20-30。从事市场营销相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 148,
+    "display_name": "用户0148",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "时政",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心时政、经济形势、国际关系方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+。从事社会工作相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTJ。平时比较关注时政、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 149,
+    "display_name": "用户0149",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENTP",
+    "country": "韩国",
+    "profession": "体育",
+    "interested_topics": [
+      "体育",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看体育、国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自韩国的6-12。从事体育相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENTP。平时比较关注体育、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 150,
+    "display_name": "用户0150",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的男性。从事法律相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 151,
+    "display_name": "用户0151",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "比较关心时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+。从事其他相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INTJ。平时比较关注政治这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 152,
+    "display_name": "用户0152",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "商业",
+      "政治",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 5,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "平时常看商业、时政、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的男性。从事商业相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注商业、政治、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 153,
+    "display_name": "用户0153",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12。从事工程相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 154,
+    "display_name": "用户0154",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的男性。从事法律相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 155,
+    "display_name": "用户0155",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30的男性。从事法律相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 156,
+    "display_name": "用户0156",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注科技、经济形势、国际关系方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19。从事科技相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFP。平时比较关注科技、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 157,
+    "display_name": "用户0157",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "加拿大",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自加拿大的20-30的女性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 158,
+    "display_name": "用户0158",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 7,
+      "influence_score": 20.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的女性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ESTP。平时比较关注科技、国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 159,
+    "display_name": "用户0159",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ENTJ",
+    "country": "德国",
+    "profession": "商业",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、商业方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自德国的13-19。从事商业相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENTJ。平时比较关注国际关系、经济、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 160,
+    "display_name": "用户0160",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "澳大利亚",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自澳大利亚的13-19的男性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 161,
+    "display_name": "用户0161",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "INTP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 5,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、科技方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的13-19。从事教育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 162,
+    "display_name": "用户0162",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ISFP",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 4,
+      "influence_score": 16.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50。从事其他相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 163,
+    "display_name": "用户0163",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "巴西",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 38,
+      "retweet_count": 3,
+      "influence_score": 44.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自巴西的13-19的女性。从事社会工作相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 164,
+    "display_name": "用户0164",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50的女性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENTP。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 165,
+    "display_name": "用户0165",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+。从事科学研究相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 166,
+    "display_name": "用户0166",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "INFP",
+    "country": "丹麦",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、体育方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自丹麦的6-12。从事体育相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 167,
+    "display_name": "用户0167",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISFP",
+    "country": "俄罗斯",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 6,
+      "influence_score": 27.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自俄罗斯的31-50的男性。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 168,
+    "display_name": "用户0168",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "澳大利亚",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 4,
+      "influence_score": 19.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自澳大利亚的6-12的女性。从事政治相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 169,
+    "display_name": "用户0169",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12的男性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ENTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 170,
+    "display_name": "用户0170",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "体育",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 14,
+      "influence_score": 34.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、体育、经济形势方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19。从事体育相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注国际关系、体育、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 171,
+    "display_name": "用户0171",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 27,
+      "retweet_count": 3,
+      "influence_score": 33.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，日常和学生、家长打交道比较多，发帖不算多但有人跟。",
+    "persona": "一位来自美国的13-19的男性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INFP。平时比较关注国际关系、经济、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 172,
+    "display_name": "用户0172",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "墨西哥",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 9,
+      "influence_score": 25.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，在平台上有一批固定的关注者。",
+    "persona": "一位来自墨西哥的51+的男性。从事教育相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISFJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 173,
+    "display_name": "用户0173",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ENFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 174,
+    "display_name": "用户0174",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 175,
+    "display_name": "用户0175",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "教育"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、教育方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、经济、教育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 176,
+    "display_name": "用户0176",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、科技方面的消息，每天都会看盘和读研报，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50的男性。从事金融相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INTJ。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 177,
+    "display_name": "用户0177",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENFJ",
+    "country": "日本",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自日本的51+。从事金融相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 178,
+    "display_name": "用户0178",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "INFP",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30的男性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INFP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 179,
+    "display_name": "用户0179",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "英国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自英国的6-12的男性。从事政治相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 180,
+    "display_name": "用户0180",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 100,
+      "retweet_count": 20,
+      "influence_score": 50.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "关注时政、科技、商业方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的31-50的男性。从事其他相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESTJ。平时比较关注政治、科技、商业这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 181,
+    "display_name": "用户0181",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 123,
+      "retweet_count": 45,
+      "influence_score": 78.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "比较关心时政、商业、科技方面的消息，帖子经常被人引用。",
+    "persona": "一位来自美国的31-50的男性。从事商业相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ESTJ。平时比较关注政治、商业、科技这类话题。在平台上发言比较有影响力，经常被转发。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 182,
+    "display_name": "用户0182",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "芬兰",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自芬兰的31-50的男性。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 183,
+    "display_name": "用户0183",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、科技、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的13-19的男性。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESFJ。平时比较关注国际关系、科技、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 184,
+    "display_name": "用户0184",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、科技方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30的男性。从事工程相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ISFP。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 185,
+    "display_name": "用户0185",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、科技、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注国际关系、科技、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 186,
+    "display_name": "用户0186",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISFP",
+    "country": "意大利",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、体育方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自意大利的31-50的男性。从事体育相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 187,
+    "display_name": "用户0187",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50。从事政治相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ESFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 188,
+    "display_name": "用户0188",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ISTP",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19的女性。从事法律相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 189,
+    "display_name": "用户0189",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "墨西哥",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自墨西哥的13-19的男性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISFJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 190,
+    "display_name": "用户0190",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENTJ",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的51+。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 191,
+    "display_name": "用户0191",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ESTP",
+    "country": "法国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自法国的51+。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 192,
+    "display_name": "用户0192",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "西班牙",
+    "profession": "市场营销",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自西班牙的20-30的女性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENTP。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 193,
+    "display_name": "用户0193",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "时政",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心时政、国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+的男性。从事政治相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INFJ。平时比较关注时政、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 194,
+    "display_name": "用户0194",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "INFP",
+    "country": "日本",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自日本的6-12的男性。从事教育相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 195,
+    "display_name": "用户0195",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ESFP",
+    "country": "巴西",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自巴西的31-50。从事政治相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 196,
+    "display_name": "用户0196",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "金融"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 3,
+      "influence_score": 5.2
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "比较关心时政、金融方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+。从事其他相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENFP。平时比较关注政治、金融这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 197,
+    "display_name": "用户0197",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 5,
+      "influence_score": 12.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": true,
+    "bio": "平时常看时政、科技方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的31-50的女性。从事其他相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 INTJ。平时比较关注政治、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 198,
+    "display_name": "用户0198",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "加拿大",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自加拿大的31-50的女性。从事法律相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 199,
+    "display_name": "用户0199",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "科技",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、科技、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的男性。从事文娱传媒相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INFP。平时比较关注国际关系、科技、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 200,
+    "display_name": "用户0200",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "INTJ",
+    "country": "芬兰",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 4,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自芬兰的13-19。从事科技相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 201,
+    "display_name": "用户0201",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ISTP",
+    "country": "印度",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、体育方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自印度的31-50。从事体育相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISTP。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 202,
+    "display_name": "用户0202",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "日本",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自日本的13-19的男性。从事教育相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESTJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 203,
+    "display_name": "用户0203",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ESFP",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 8,
+      "influence_score": 21.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、科技方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自美国的31-50。从事商业相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESFP。平时比较关注经济、国际关系、科技这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 204,
+    "display_name": "用户0204",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的20-30的女性。从事其他相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 205,
+    "display_name": "用户0205",
+    "age": "6-12",
+    "gender": "不愿透露",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 8,
+      "influence_score": 22.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，发帖不算多但有人跟。",
+    "persona": "一位来自中国的6-12。从事科技相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INFJ。平时比较关注科技、国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 206,
+    "display_name": "用户0206",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19的女性。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 INTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 207,
+    "display_name": "用户0207",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "时政",
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注时政、经济形势、国际关系方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+的女性。从事法律相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注时政、经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 208,
+    "display_name": "用户0208",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "澳大利亚",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自澳大利亚的6-12的女性。从事医疗健康相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ESTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 209,
+    "display_name": "用户0209",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 210,
+    "display_name": "用户0210",
+    "age": "20-30",
+    "gender": "不愿透露",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30。从事政治相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 211,
+    "display_name": "用户0211",
+    "age": "6-12",
+    "gender": "不愿透露",
+    "mbti": "ESFJ",
+    "country": "韩国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自韩国的6-12。从事商业相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ESFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 212,
+    "display_name": "用户0212",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "加拿大",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 23,
+      "retweet_count": 3,
+      "influence_score": 29.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自加拿大的6-12的男性。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 213,
+    "display_name": "用户0213",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30的男性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 214,
+    "display_name": "用户0214",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 3,
+      "influence_score": 15.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的男性。从事社会工作相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 215,
+    "display_name": "用户0215",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ENTJ",
+    "country": "其他",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的31-50。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 216,
+    "display_name": "用户0216",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "INTP",
+    "country": "加拿大",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自加拿大的51+。从事文娱传媒相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 217,
+    "display_name": "用户0217",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 14,
+      "influence_score": 35.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的20-30的男性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 218,
+    "display_name": "用户0218",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "日本",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自日本的51+的男性。从事金融相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 219,
+    "display_name": "用户0219",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 7.5
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "关注时政、综合新闻方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTJ。平时比较关注政治、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 220,
+    "display_name": "用户0220",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12的女性。从事商业相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 221,
+    "display_name": "用户0221",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ESFP",
+    "country": "加拿大",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自加拿大的13-19的男性。从事工程相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 222,
+    "display_name": "用户0222",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "日本",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 6,
+      "influence_score": 20.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上有一批固定的关注者。",
+    "persona": "一位来自日本的20-30的女性。从事科技相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INTP。平时比较关注科技、国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 223,
+    "display_name": "用户0223",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ENTP",
+    "country": "丹麦",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 41,
+      "retweet_count": 3,
+      "influence_score": 47.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自丹麦的31-50。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ENTP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 224,
+    "display_name": "用户0224",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ESFJ",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 4,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的51+的女性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 225,
+    "display_name": "用户0225",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESFP",
+    "country": "瑞典",
+    "profession": "金融",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 6,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自瑞典的6-12的女性。从事金融相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 226,
+    "display_name": "用户0226",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的女性。从事体育相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 227,
+    "display_name": "用户0227",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "其他",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 4,
+      "influence_score": 14.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自其他的13-19的男性。从事金融相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 228,
+    "display_name": "用户0228",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ISTP",
+    "country": "印度",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 6,
+      "influence_score": 19.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，平时会留意政策文件与官方表态，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自印度的20-30。从事政治相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 229,
+    "display_name": "用户0229",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的13-19的男性。从事工程相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 INTJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 230,
+    "display_name": "用户0230",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 8,
+      "influence_score": 22.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的51+。从事金融相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFJ。平时比较关注经济、国际关系、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 231,
+    "display_name": "用户0231",
+    "age": "20-30",
+    "gender": "不愿透露",
+    "mbti": "ESTP",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 4,
+      "influence_score": 15.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30。从事商业相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ESTP。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 232,
+    "display_name": "用户0232",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 5,
+      "influence_score": 19.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19的女性。从事科学研究相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 INTP。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 233,
+    "display_name": "用户0233",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 14,
+      "retweet_count": 3,
+      "influence_score": 20.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的51+的男性。从事体育相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 234,
+    "display_name": "用户0234",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ENFJ",
+    "country": "中国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 13,
+      "retweet_count": 3,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的男性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ENFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 235,
+    "display_name": "用户0235",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "时政",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 9,
+      "influence_score": 25.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、时政、经济形势方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自美国的6-12的女性。从事社会工作相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注国际关系、时政、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 236,
+    "display_name": "用户0236",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "商业",
+      "科技",
+      "政治"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 7.5
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "平时常看商业、科技、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注商业、科技、政治这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 237,
+    "display_name": "用户0237",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ISTJ",
+    "country": "中国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12的男性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ISTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 238,
+    "display_name": "用户0238",
+    "age": "20-30",
+    "gender": "不愿透露",
+    "mbti": "ISFP",
+    "country": "印度",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 3,
+      "influence_score": 21.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自印度的20-30。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ISFP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 239,
+    "display_name": "用户0239",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "ESFP",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "体育",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看体育、国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的20-30的男性。从事体育相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESFP。平时比较关注体育、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 240,
+    "display_name": "用户0240",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "ISTP",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 4,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+。从事艺术设计相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 241,
+    "display_name": "用户0241",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ISFJ",
+    "country": "西班牙",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 4,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自西班牙的6-12的女性。从事科技相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 242,
+    "display_name": "用户0242",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "INFP",
+    "country": "美国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，日常和学生、家长打交道比较多，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的13-19。从事教育相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 243,
+    "display_name": "用户0243",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "墨西哥",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、科技方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自墨西哥的13-19的女性。从事科学研究相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ISTJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 244,
+    "display_name": "用户0244",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的51+的男性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 245,
+    "display_name": "用户0245",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "ENTP",
+    "country": "日本",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 9,
+      "influence_score": 23.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自日本的51+。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 ENTP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 246,
+    "display_name": "用户0246",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系、科技方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30。从事商业相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 INTP。平时比较关注经济、国际关系、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 247,
+    "display_name": "用户0247",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "商业",
+      "政治",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 120,
+      "retweet_count": 30,
+      "influence_score": 75.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "比较关心商业、时政、综合新闻方面的消息，帖子经常被人引用。",
+    "persona": "一位来自美国的31-50的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ESTJ。平时比较关注商业、政治、综合新闻这类话题。在平台上发言比较有影响力，经常被转发。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 248,
+    "display_name": "用户0248",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、时政方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19的女性。从事科技相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENFP。平时比较关注科技、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 249,
+    "display_name": "用户0249",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ENFJ",
+    "country": "德国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 4,
+      "influence_score": 19.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自德国的51+的女性。从事工程相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ENFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 250,
+    "display_name": "用户0250",
+    "age": "31-50",
+    "gender": "非二元",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "金融",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，每天都会看盘和读研报，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的31-50。从事金融相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 251,
+    "display_name": "用户0251",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ISTJ",
+    "country": "加拿大",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 13,
+      "influence_score": 31.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自加拿大的51+的男性。从事科学研究相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 252,
+    "display_name": "用户0252",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的男性。从事法律相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ISTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 253,
+    "display_name": "用户0253",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "荷兰",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自荷兰的6-12的女性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 254,
+    "display_name": "用户0254",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、商业方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的女性。从事商业相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESTP。平时比较关注经济、国际关系、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 255,
+    "display_name": "用户0255",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ESTP",
+    "country": "中国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 75,
+      "retweet_count": 20,
+      "influence_score": 115.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，帖子经常被人引用。",
+    "persona": "一位来自中国的6-12的男性。从事市场营销相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESTP。平时比较关注国际关系、经济这类话题。在平台上发言比较有影响力，经常被转发。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 256,
+    "display_name": "用户0256",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "ENTJ",
+    "country": "丹麦",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心经济形势、国际关系、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自丹麦的31-50。从事商业相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENTJ。平时比较关注经济、国际关系、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 257,
+    "display_name": "用户0257",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ENTJ",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 0,
+      "retweet_count": 0,
+      "influence_score": 0.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": true,
+    "bio": "平时常看时政、科技、综合新闻方面的消息，平时会留意政策文件与官方表态，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的51+。从事政治相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENTJ。平时比较关注政治、科技、综合新闻这类话题。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 258,
+    "display_name": "用户0258",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "ISTJ",
+    "country": "加拿大",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "经济",
+      "国际关系"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注经济形势、国际关系方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自加拿大的51+。从事文娱传媒相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISTJ。平时比较关注经济、国际关系这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 259,
+    "display_name": "用户0259",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "INTP",
+    "country": "美国",
+    "profession": "市场营销",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+。从事市场营销相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 INTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 260,
+    "display_name": "用户0260",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30的男性。从事科技相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 261,
+    "display_name": "用户0261",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ESTP",
+    "country": "美国",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "高收入精英",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的20-30。从事其他相关工作。受教育程度为高中及以下。经济状况属于高收入精英。性格类型为 ESTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 262,
+    "display_name": "用户0262",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ENTJ",
+    "country": "美国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 19,
+      "retweet_count": 3,
+      "influence_score": 25.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的20-30。从事艺术设计相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 263,
+    "display_name": "用户0263",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ESTJ",
+    "country": "印度",
+    "profession": "其他",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 6,
+      "influence_score": 21.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自印度的13-19。从事其他相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 264,
+    "display_name": "用户0264",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12。从事工程相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ENFJ。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 265,
+    "display_name": "用户0265",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "体育",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 4,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、体育方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的13-19的男性。从事体育相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENFP。平时比较关注国际关系、经济、体育这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 266,
+    "display_name": "用户0266",
+    "age": "51+",
+    "gender": "非二元",
+    "mbti": "ISTP",
+    "country": "加拿大",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 8,
+      "retweet_count": 3,
+      "influence_score": 14.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自加拿大的51+。从事社会工作相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 267,
+    "display_name": "用户0267",
+    "age": "13-19",
+    "gender": "男",
+    "mbti": "ISFJ",
+    "country": "中国",
+    "profession": "体育",
+    "interested_topics": [
+      "时政",
+      "国际关系",
+      "体育"
+    ],
+    "influence_metrics": {
+      "like_count": 23,
+      "retweet_count": 3,
+      "influence_score": 29.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注时政、国际关系、体育方面的消息，发帖不算多但有人跟。",
+    "persona": "一位来自中国的13-19的男性。从事体育相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ISFJ。平时比较关注时政、国际关系、体育这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 268,
+    "display_name": "用户0268",
+    "age": "20-30",
+    "gender": "女",
+    "mbti": "ISTJ",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30的女性。从事商业相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ISTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 269,
+    "display_name": "用户0269",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 5,
+      "influence_score": 12.5
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "平时常看时政、科技、综合新闻方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTJ。平时比较关注政治、科技、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 270,
+    "display_name": "用户0270",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ISTP",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，对规则和程序的细节比较在意，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的男性。从事法律相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ISTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 271,
+    "display_name": "用户0271",
+    "age": "51+",
+    "gender": "不愿透露",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+。从事社会工作相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ISFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 272,
+    "display_name": "用户0272",
+    "age": "20-30",
+    "gender": "男",
+    "mbti": "INTP",
+    "country": "墨西哥",
+    "profession": "科学研究",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 44,
+      "influence_score": 95.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，在平台上发言常被转载。",
+    "persona": "一位来自墨西哥的20-30的男性。从事科学研究相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTP。平时比较关注科技、国际关系、经济这类话题。在平台上发言比较有影响力，经常被转发。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 273,
+    "display_name": "用户0273",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "日本",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自日本的51+的女性。从事医疗健康相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 INTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 274,
+    "display_name": "用户0274",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "美国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 3,
+      "influence_score": 21.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的51+的女性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 275,
+    "display_name": "用户0275",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "ESFJ",
+    "country": "中国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、文化方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 276,
+    "display_name": "用户0276",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的31-50的男性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 277,
+    "display_name": "用户0277",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESFP",
+    "country": "英国",
+    "profession": "教育",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 5,
+      "influence_score": 15.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，日常和学生、家长打交道比较多，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自英国的51+的男性。从事教育相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ESFP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 278,
+    "display_name": "用户0278",
+    "age": "13-19",
+    "gender": "非二元",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 40,
+      "retweet_count": 3,
+      "influence_score": 46.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、时政方面的消息，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESTJ。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 279,
+    "display_name": "用户0279",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 7,
+      "retweet_count": 3,
+      "influence_score": 13.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的13-19的女性。从事法律相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENTP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 280,
+    "display_name": "用户0280",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ESTP",
+    "country": "美国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 3,
+      "influence_score": 21.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上有一批固定的关注者。",
+    "persona": "一位来自美国的6-12的女性。从事科技相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ESTP。平时比较关注科技、国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 281,
+    "display_name": "用户0281",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ENTP",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 3,
+      "influence_score": 12.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的6-12。从事社会工作相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ENTP。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 282,
+    "display_name": "用户0282",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ISFP",
+    "country": "加拿大",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 24,
+      "retweet_count": 11,
+      "influence_score": 46.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，对规则和程序的细节比较在意，在平台上有一批固定的关注者。",
+    "persona": "一位来自加拿大的6-12的女性。从事法律相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 ISFP。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 283,
+    "display_name": "用户0283",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "ESFP",
+    "country": "美国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 4,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+的男性。从事法律相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 ESFP。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 284,
+    "display_name": "用户0284",
+    "age": "13-19",
+    "gender": "不愿透露",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "政治",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，平时会留意政策文件与官方表态，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的13-19。从事政治相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 INTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 285,
+    "display_name": "用户0285",
+    "age": "51+",
+    "gender": "男",
+    "mbti": "INFJ",
+    "country": "美国",
+    "profession": "科学研究",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的51+的男性。从事科学研究相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 286,
+    "display_name": "用户0286",
+    "age": "20-30",
+    "gender": "非二元",
+    "mbti": "ISFJ",
+    "country": "美国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "工薪中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、文化方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的20-30。从事文娱传媒相关工作。受教育程度为硕士及以上。经济状况属于工薪中产。性格类型为 ISFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 287,
+    "display_name": "用户0287",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "低收入",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看科技、国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自美国的6-12的女性。从事工程相关工作。受教育程度为大专本科。经济状况属于低收入。性格类型为 ENTP。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 288,
+    "display_name": "用户0288",
+    "age": "13-19",
+    "gender": "女",
+    "mbti": "ENFP",
+    "country": "中国",
+    "profession": "法律",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 15,
+      "retweet_count": 4,
+      "influence_score": 23.0
+    },
+    "economic_status": "高收入精英",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、时政方面的消息，对规则和程序的细节比较在意，在平台上有一批固定的关注者。",
+    "persona": "一位来自中国的13-19的女性。从事法律相关工作。受教育程度为硕士及以上。经济状况属于高收入精英。性格类型为 ENFP。平时比较关注国际关系、经济、时政这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 289,
+    "display_name": "用户0289",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "ENFJ",
+    "country": "美国",
+    "profession": "工程",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 13,
+      "influence_score": 31.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，做事偏实务，喜欢看具体案例，发帖不算多但有人跟。",
+    "persona": "一位来自美国的51+的女性。从事工程相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ENFJ。平时比较关注国际关系、经济这类话题。在平台上有一些固定的关注者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 290,
+    "display_name": "用户0290",
+    "age": "6-12",
+    "gender": "男",
+    "mbti": "ENTP",
+    "country": "美国",
+    "profession": "商业",
+    "interested_topics": [
+      "经济",
+      "国际关系",
+      "商业"
+    ],
+    "influence_metrics": {
+      "like_count": 6,
+      "retweet_count": 5,
+      "influence_score": 16.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看经济形势、国际关系、商业方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12的男性。从事商业相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 ENTP。平时比较关注经济、国际关系、商业这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 291,
+    "display_name": "用户0291",
+    "age": "31-50",
+    "gender": "女",
+    "mbti": "INTP",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "商业",
+      "综合新闻"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 4,
+      "influence_score": 16.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "关注时政、商业、综合新闻方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的女性。从事其他相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INTP。平时比较关注政治、商业、综合新闻这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 292,
+    "display_name": "用户0292",
+    "age": "6-12",
+    "gender": "不愿透露",
+    "mbti": "INTJ",
+    "country": "中国",
+    "profession": "社会工作",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 10,
+      "retweet_count": 3,
+      "influence_score": 16.0
+    },
+    "economic_status": "中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12。从事社会工作相关工作。受教育程度为高中及以下。经济状况属于中产。性格类型为 INTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 293,
+    "display_name": "用户0293",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "INTJ",
+    "country": "西班牙",
+    "profession": "科技",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "科技"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 3,
+      "influence_score": 17.0
+    },
+    "economic_status": "中产",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势、科技方面的消息，工作中会接触到技术动态与产业新闻，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自西班牙的31-50的男性。从事科技相关工作。受教育程度为硕士及以上。经济状况属于中产。性格类型为 INTJ。平时比较关注国际关系、经济、科技这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 294,
+    "display_name": "用户0294",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ISFP",
+    "country": "中国",
+    "profession": "科技",
+    "interested_topics": [
+      "科技",
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 11,
+      "retweet_count": 3,
+      "influence_score": 17.0
+    },
+    "economic_status": "低收入",
+    "education": "硕士及以上",
+    "is_real": false,
+    "bio": "关注科技、国际关系、经济形势方面的消息，工作中会接触到技术动态与产业新闻，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的6-12。从事科技相关工作。受教育程度为硕士及以上。经济状况属于低收入。性格类型为 ISFP。平时比较关注科技、国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 295,
+    "display_name": "用户0295",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "法国",
+    "profession": "文娱传媒",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "时政"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 6,
+      "influence_score": 17.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势、时政方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自法国的31-50的男性。从事文娱传媒相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 ESTJ。平时比较关注国际关系、经济、时政这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 296,
+    "display_name": "用户0296",
+    "age": "6-12",
+    "gender": "女",
+    "mbti": "INTJ",
+    "country": "美国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 4,
+      "influence_score": 13.0
+    },
+    "economic_status": "工薪中产",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "平时常看国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自美国的6-12的女性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于工薪中产。性格类型为 INTJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 297,
+    "display_name": "用户0297",
+    "age": "31-50",
+    "gender": "不愿透露",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "艺术设计",
+    "interested_topics": [
+      "国际关系",
+      "经济",
+      "文化"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 7,
+      "influence_score": 19.0
+    },
+    "economic_status": "低收入",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势、文化方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50。从事艺术设计相关工作。受教育程度为高中及以下。经济状况属于低收入。性格类型为 INFJ。平时比较关注国际关系、经济、文化这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 298,
+    "display_name": "用户0298",
+    "age": "6-12",
+    "gender": "非二元",
+    "mbti": "ESFJ",
+    "country": "日本",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 9,
+      "retweet_count": 4,
+      "influence_score": 17.0
+    },
+    "economic_status": "工薪中产",
+    "education": "高中及以下",
+    "is_real": false,
+    "bio": "比较关心国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自日本的6-12。从事医疗健康相关工作。受教育程度为高中及以下。经济状况属于工薪中产。性格类型为 ESFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 299,
+    "display_name": "用户0299",
+    "age": "31-50",
+    "gender": "男",
+    "mbti": "ESTJ",
+    "country": "中国",
+    "profession": "其他",
+    "interested_topics": [
+      "政治",
+      "科技",
+      "环境"
+    ],
+    "influence_metrics": {
+      "like_count": 12,
+      "retweet_count": 5,
+      "influence_score": 18.0
+    },
+    "economic_status": "中产",
+    "education": "大专本科",
+    "is_real": true,
+    "bio": "平时常看时政、科技、环境议题方面的消息，多数时候只是刷刷，不太发言。",
+    "persona": "一位来自中国的31-50的男性。从事其他相关工作。受教育程度为大专本科。经济状况属于中产。性格类型为 ESTJ。平时比较关注政治、科技、环境这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  },
+  {
+    "user_id": 300,
+    "display_name": "用户0300",
+    "age": "51+",
+    "gender": "女",
+    "mbti": "INFJ",
+    "country": "中国",
+    "profession": "医疗健康",
+    "interested_topics": [
+      "国际关系",
+      "经济"
+    ],
+    "influence_metrics": {
+      "like_count": 5,
+      "retweet_count": 3,
+      "influence_score": 11.0
+    },
+    "economic_status": "高收入精英",
+    "education": "大专本科",
+    "is_real": false,
+    "bio": "关注国际关系、经济形势方面的消息，在平台上主要是个看客，偶尔发言。",
+    "persona": "一位来自中国的51+的女性。从事医疗健康相关工作。受教育程度为大专本科。经济状况属于高收入精英。性格类型为 INFJ。平时比较关注国际关系、经济这类话题。在平台上是一个普通的参与者。习惯用自己的方式表达看法。"
+  }
+]

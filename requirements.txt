@@ -1,0 +1,8 @@
+# ASCE-CoC 运行依赖
+#
+# 环境要求：Python 3.10 或更高版本。
+# 实时监控页使用标准库 http.server 实现，不需要 Flask；
+# 前端不依赖任何外部 CDN，因此无需 Node.js 或构建步骤。
+
+aiohttp>=3.9
+PyYAML>=6.0

@@ -1,0 +1,92 @@
+# ============================================================================
+# ASCE-CoC 运行配置
+#
+# 六个认知维度：情绪 / 情感 / 思维 / 立场 / 观点 / 意图（+ 一致性收口）
+# 三档认知链密度：max 完整版 / pro 精简版 / flash 极简版
+# 统一两次 LLM 调用：第 1 次不给工具（感受与自我），第 2 次给工具（判断与行动）
+# ============================================================================
+
+run:
+  name: "cut_max_10x5"
+  seed: 20260720
+  # 输出目录（DB 与日志）
+  output_dir: "runs"
+  # 恢复运行的库（留空表示新建）
+  resume_db: ""
+
+data:
+  topic: "cut"
+  profiles: "data/cut/profiles.json"
+  posts: "data/cut/posts.json"
+  background_file: "data/cut/meta.json"
+
+simulation:
+  num_agents: 10
+  num_timesteps: 5
+  # 每轮激活率；activate_prob_range 非空时每轮在区间内重采，覆盖 activate_prob
+  activate_prob: 0.8
+  activate_prob_range: [0.7, 0.9]
+  # 平台每个 tick 注入的种子帖数量（作者按兴趣匹配指派给真实 agent）
+  round_post_num: 6
+  # 严格控制：只从 original_post 里取种子帖（更接近真实"有人发起话题"）
+  seed_source_fields: ["original_post"]
+  # 允许作为推荐候选的帖子来源；全部纳入才能撑起大规模仿真
+  pool_source_fields: ["original_post", "context_post", "target_post"]
+  # 每轮每人写入 rec 表的推荐条数（写入侧上限）
+  max_rec_post_len: 10
+  # 每次 refresh 实际展示给 agent 的帖子数（读取侧上限）
+  refresh_post_count: 6
+  # 每个帖子最多展示几条顶层评论（回复按比例附带，总评论数有硬上限）
+  max_visible_comments: 3
+  allow_self_rating: false
+  # 初始关注：每个 agent 关注 k 个兴趣最相近的人
+  bootstrap_follows: 3
+  # 是否给每个 agent 预置一个"社交邻域"（推荐流才有 follow 信号可依赖）
+  clock_step_minutes: 30
+
+cognitive_chain:
+  # max = 完整版 15 节点 / pro = 精简版 10 节点 / flash = 极简版 6 节点
+  profile: "max"
+  # 每次 LLM 调用的最大输出 token
+  stage1_max_tokens: 6000
+  stage2_max_tokens: 6000
+  # 允许的思考模式（Qwen3 系列开启后模型会先输出内部推理）
+  enable_thinking: true
+  # agent 每轮最多调用多少次工具（含只读与写动作）
+  max_tool_calls_per_tick: 3
+  # 单次模型响应里最多并行执行几个 tool call
+  max_tools_per_call: 3
+  # 记忆回看轮数
+  memory_rounds: 3
+
+inference:
+  # 可配置多个端点，客户端按最小在飞请求数分配
+  endpoints:
+    - "http://127.0.0.1:7862/v1"
+  model: "qwen3.5-9b"
+  api_key: "EMPTY"
+  temperature: 0.7
+  # 每个端点的最大并发
+  max_concurrent_per_endpoint: 8
+  # 单次请求超时（秒）。Qwen3 think 模式下单次可能 20-40s，必须给足
+  timeout: 1800
+  max_retries: 3
+
+recsys:
+  weights:
+    hot: 0.20
+    time: 0.15
+    follow: 0.30
+    interest: 0.20
+    persona: 0.10
+    random: 0.05
+    # 已看过的帖子打几折（cut 语料只有 2683 条，不能压太狠）
+    seen_penalty: 0.35
+    half_life_hours: 12.0
+
+live:
+  enabled: true
+  host: "127.0.0.1"
+  port: 8802
+  # 事件推送轮询间隔（秒）
+  poll_interval: 1.0
